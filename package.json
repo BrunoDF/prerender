@@ -1,6 +1,6 @@
 {
   "author": "Prerender.io",
-  "name": "prerender-s3htmlCache-with-expires",
+  "name": "prerender-s3htmlcache-with-expires",
   "description": "Service to prerender Javascript rendered pages for SEO with possibility of using the expires attribute in aws-sdk",
   "version": "4.4.1",
   "license": "MIT",
